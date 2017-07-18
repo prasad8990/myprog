@@ -1,0 +1,9 @@
+// This is my first Java program 
+
+class FirstClass 
+{
+  public statc void main(String args[])
+  {
+    System.out.println("This is my name\b\bab")
+  }
+}
